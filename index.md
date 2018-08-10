@@ -3,7 +3,7 @@ Last updated: August 10, 2018
 ---
 # Education
 
-In 2009, i became a student of Guangzhou 89th senior school, where I spent 6 years.
+In 2009, I became a student of Guangzhou 89th senior school, where I spent 6 years.
 During 2015-2019, I was an undergraduate student from Xiamen University (for short XMU), China, where I major in chemistry and my sub-major is finance.
 
 ## About Me
@@ -30,7 +30,10 @@ If you have something urgent and need my help, please do not hesitate to contact
 > Before contact me, here are something you should know:
 >
 > [How To Ask Questions The Smart Way](http://www.catb.org/%7Eesr/faqs/smart-questions.html)
+>
 > [Chinese Version](http://doc.zengrong.net/smart-questions/cn.html)
 * * *
+
+Do I have a girlfriend?
 
 ![Branching](http://b316.photo.store.qq.com/psb?/V12MMRVS1iXFpO/3tocgB*lBhcVSESKYV4yvs5P1dwm3UVP.FzbSZ8AvCI!/b/dDwBAAAAAAAA&bo=uAKsAgAAAAARByQ!&rf=viewer_4)
