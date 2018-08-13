@@ -20,8 +20,6 @@ I've learnt the R language and Python by myself. I will put some code of R and P
 4.  QingLin Song Scholarship of Guangdong province Nov. 2014
 5.  Second Prize in 28th China Chemical Olympics preliminary contest Oct. 2014
 
-
-
 ### More
 
 If you have something urgent and need my help, please do not hesitate to contact me. You can contact me by e-mail at morganaxmu@gmail.com.
@@ -36,4 +34,5 @@ If you have something urgent and need my help, please do not hesitate to contact
 
 Do I have a girlfriend?
 
+![Octocat](https://www.z4a.net/images/2018/08/13/IMG_7575.gif)
 ![Octocat](http://b316.photo.store.qq.com/psb?/V12MMRVS1iXFpO/3tocgB*lBhcVSESKYV4yvs5P1dwm3UVP.FzbSZ8AvCI!/b/dDwBAAAAAAAA&bo=uAKsAgAAAAARByQ!&rf=viewer_4)
