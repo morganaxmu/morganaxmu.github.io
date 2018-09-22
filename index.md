@@ -1,5 +1,5 @@
 ---
-Last updated: August 10, 2018
+Last updated: September 22, 2018
 ---
 # Education
 
