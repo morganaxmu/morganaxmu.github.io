@@ -12,6 +12,8 @@ I'm not a person prossessed too much talents, but I am full of curiousity. I'm i
 
 I've learnt the R language and Python by myself. I will put some code of R and Python on Github. Also I've operated a Wechat public account for several years.
 
+In 2016, I was the member of the management of the Students Tourist Guide Team(学生导游队), which is a department of Volunteer Association(青年志愿者行动指导中心) of Xiamen University. After one year, I became the vice-chairman. We didn't get too much things form the predecessors, so I tried to trace back the history of our team and stopped at 2011. I'm still trying to find someone who knows the history of our team. If you have any clues, just contact me.
+
 ### Awards
 
 1.  ShengFaTianJian Scholarship  Apr. 2018
