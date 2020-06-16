@@ -19,7 +19,7 @@ Bachelor of Science (Sept. 2015 - Jun. 2019)
 
 IELTS: 7.5 (R 9.0, L 7.5, W 6.5, S 6.0)
 
-GRE General: 321 (V151, Q170) + AW3.5
+GRE General: 321 (V151, Q170) + AW3.0
 
 ## About Me
 ### Things I interested
