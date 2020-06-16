@@ -10,8 +10,11 @@ Xiamen University (XMU)
 Bachelor of Science (Sept. 2015 - Jun. 2019)
 
 > Major in Chemistry
+
 > Minor in Mathematical Fiance
+
 > Major GPA: 3.5/4
+
 > Minor GPA: 3.5/4
 
 IELTS: 7.5 (R 9.0, L 7.5, W 6.5, S 6.0)
