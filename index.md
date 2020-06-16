@@ -8,10 +8,10 @@ Last updated: June 16, 2020
 2015-2019, Xiamen University (for short XMU), major in chemistry and minor in mathematical finance.
 
 ## About Me
-### Things I'm interested
-Well, I like vedio games and I would write review for them. I've joint many steam curators, like keylol.
+### Things I interested
+Well, I like vedio games and I would write review for them. I have membership of many steam curators, like keylol.
 
-If you are interested in my reviews, you could find them in [here](https://github.com/morganaxmu/My-reviews-of-games)
+If you are interested in my reviews, [here](https://github.com/morganaxmu/My-reviews-of-games) you are.
 
 ## More
 
